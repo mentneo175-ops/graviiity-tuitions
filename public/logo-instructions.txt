@@ -1,0 +1,17 @@
+LOGO SETUP INSTRUCTIONS
+========================
+
+To add your Graviity Tuitions logo:
+
+1. Save your logo image as: public/logo.png
+2. The logo should be a PNG file with transparent background
+3. Recommended size: 400px width x 150px height (or similar aspect ratio)
+4. The website will automatically display it in the navbar and footer
+
+Current logo features:
+- Blue "IIT" building icon with star and book
+- "Graviity Tuitions" text (with orange dots on 'i')
+- "PATHWAYS TO EXCELLENCE" tagline
+- Navy blue and orange color scheme
+
+Once you save the logo file, refresh the browser to see it!
