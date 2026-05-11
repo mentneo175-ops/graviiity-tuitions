@@ -47,7 +47,7 @@ const Hero = () => {
                 <span className="group-hover:translate-x-1 transition-transform">→</span>
               </a>
               <a
-                href="tel:+919381791038"
+                href="tel:+919247901196"
                 className="px-8 py-4 bg-white rounded-full font-bold text-lg hover:bg-blue-50 transition-all flex items-center justify-center space-x-2"
                 style={{ border: '2px solid #22d3ee', color: '#06b6d4' }}
               >

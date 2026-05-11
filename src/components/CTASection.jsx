@@ -42,7 +42,7 @@ const CTASection = () => {
             <span className="group-hover:translate-x-1 transition-transform">→</span>
           </a>
           <a
-            href="https://wa.me/919381791038"
+            href="https://wa.me/919247901196"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 bg-green-500 text-white rounded-full font-bold text-lg hover:bg-green-600 hover:shadow-2xl transform hover:scale-105 transition-all flex items-center justify-center space-x-2"
@@ -51,7 +51,7 @@ const CTASection = () => {
             <span>WhatsApp Now</span>
           </a>
           <a
-            href="tel:+919381791038"
+            href="tel:+919247901196"
             className="px-8 py-4 bg-white/10 backdrop-blur-sm border-2 border-white text-white rounded-full font-bold text-lg hover:bg-white/20 transition-all flex items-center justify-center space-x-2"
           >
             <Phone className="w-5 h-5" />

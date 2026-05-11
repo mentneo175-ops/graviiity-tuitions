@@ -57,7 +57,7 @@ const Navbar = () => {
           {/* CTA Buttons */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="tel:+919381791038"
+              href="tel:+919247901196"
               className="flex items-center space-x-2 px-4 py-2 text-primary-600 hover:text-primary-700 font-semibold transition-colors"
             >
               <Phone className="w-4 h-4" />
@@ -95,7 +95,7 @@ const Navbar = () => {
                 </a>
               ))}
               <a
-                href="tel:+919381791038"
+                href="tel:+919247901196"
                 className="px-4 py-2 text-primary-600 hover:bg-primary-50 rounded-lg font-semibold transition-colors flex items-center space-x-2"
               >
                 <Phone className="w-4 h-4" />

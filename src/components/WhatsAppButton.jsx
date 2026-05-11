@@ -22,7 +22,7 @@ const WhatsAppButton = () => {
     }
   }, [])
 
-  const whatsappNumber = '919381791038'
+  const whatsappNumber = '919247901196'
   const message = encodeURIComponent('Hi! I would like to know more about Graviity Tuitions programs.')
 
   return (
